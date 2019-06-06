@@ -1,0 +1,17 @@
+{
+  "name": "ione",
+  "version": "1.0.0",
+  "description": "node js practice",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.0",
+    "nodemon": "^1.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Imran Hque",
+  "license": "ISC"
+}
